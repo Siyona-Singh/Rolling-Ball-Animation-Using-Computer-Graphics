@@ -21,3 +21,6 @@ Possible Improvements:
 * Improve visual appeal with smoother transitions and scene elements
 
 Graphics functions reference: https://graphicswithc.wordpress.com/all-about-built-in-graphics-functions/
+
+# Animation/Output:
+[![Rolling Ball Animation Demo](Thumbnail.png)](https://youtu.be/263ABOTCN9M?si=LAs6S9eSkftSQCGG)
